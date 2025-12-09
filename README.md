@@ -39,15 +39,6 @@ Sou um profissional proativo e focado em escrever código limpo e escalável. Mi
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Biels25&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biels25&layout=compact&theme=dracula"/>
-</div>
-
----
-
 ## 📫 Contato
 
 <div align="center">
