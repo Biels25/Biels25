@@ -2,13 +2,12 @@
 
 ## 🎓 Sobre Mim
 
-Sou recém-graduado em **Análise e Desenvolvimento de Sistemas**, buscando minha primeira oportunidade profissional como **Desenvolvedor de Software**.
+Sou recém-graduado em **Análise e Desenvolvimento de Sistemas**.
 
 Sou um profissional proativo e focado em escrever código limpo e escalável. Minha base acadêmica e projetos práticos são voltados para o **Backend**, onde tenho experiência na criação de soluções robustas e integração de sistemas.
 
 * 🔭 Atualmente estou trabalhando em projetos pessoais para aprimorar minhas habilidades em **Java** e **Python**.
 * 🌱 Estudando profundamente arquitetura de microsserviços e **Docker**.
-* 💬 Vamos conversar sobre **tecnologia, backend e oportunidades na área!**
 
 ---
 
